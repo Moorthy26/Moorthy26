@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sam Sepiol</h1>
+<h1 align="center">Hi 👋, I'm MOORTHY</h1>
 <h3 align="center">DEVOPS ENGINEER</h3>
 <p align="center"> <img src="https://64.media.tumblr.com/ea0617d27fce26d509bb49da0735e3ed/tumblr_p8wui9K4H81rztjsno1_540.gif" /> </p>
 
